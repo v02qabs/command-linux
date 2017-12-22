@@ -75,36 +75,50 @@ $
 # global variables:
 
 # File marks:
-'0  3  5  ~/file-rw/show/item.txt
-|4,48,3,5,1513916545,"~/file-rw/show/item.txt"
-'1  10  15  ~/file-rw/show/filereader.c
-|4,49,10,15,1513916468,"~/file-rw/show/filereader.c"
-'2  1  0  ~/file-rw/show/inc.h
-|4,50,1,0,1513916391,"~/file-rw/show/inc.h"
-'3  10  7  ~/file-rw/show/filereader.c
-|4,51,10,7,1513916386,"~/file-rw/show/filereader.c"
-'4  10  9  ~/file-rw/show/inc.h
-|4,52,10,9,1513916340,"~/file-rw/show/inc.h"
+'0  1  0  ~/sock/main.c
+|4,48,1,0,1513920708,"~/sock/main.c"
+'1  3  5  ~/file-rw/show/item.txt
+|4,49,3,5,1513916545,"~/file-rw/show/item.txt"
+'2  10  15  ~/file-rw/show/filereader.c
+|4,50,10,15,1513916468,"~/file-rw/show/filereader.c"
+'3  1  0  ~/file-rw/show/inc.h
+|4,51,1,0,1513916391,"~/file-rw/show/inc.h"
+'4  10  7  ~/file-rw/show/filereader.c
+|4,52,10,7,1513916386,"~/file-rw/show/filereader.c"
 '5  10  9  ~/file-rw/show/inc.h
 |4,53,10,9,1513916340,"~/file-rw/show/inc.h"
-'6  15  9  ~/file-rw/show/show.c
-|4,54,15,9,1513916316,"~/file-rw/show/show.c"
-'7  10  9  ~/file-rw/show/inc.h
-|4,55,10,9,1513916258,"~/file-rw/show/inc.h"
+'6  10  9  ~/file-rw/show/inc.h
+|4,54,10,9,1513916340,"~/file-rw/show/inc.h"
+'7  15  9  ~/file-rw/show/show.c
+|4,55,15,9,1513916316,"~/file-rw/show/show.c"
 '8  10  9  ~/file-rw/show/inc.h
 |4,56,10,9,1513916258,"~/file-rw/show/inc.h"
-'9  7  27  ~/file-rw/show/inc.h
-|4,57,7,27,1513916186,"~/file-rw/show/inc.h"
+'9  10  9  ~/file-rw/show/inc.h
+|4,57,10,9,1513916258,"~/file-rw/show/inc.h"
 
 # Jumplist (newest first):
+-'  1  0  ~/sock/main.c
+|4,39,1,0,1513920708,"~/sock/main.c"
 -'  3  5  ~/file-rw/show/item.txt
 |4,39,3,5,1513916545,"~/file-rw/show/item.txt"
+-'  3  5  ~/file-rw/show/item.txt
+|4,39,3,5,1513916545,"~/file-rw/show/item.txt"
+-'  1  0  ~/file-rw/show/item.txt
+|4,39,1,0,1513916529,"~/file-rw/show/item.txt"
 -'  1  0  ~/file-rw/show/item.txt
 |4,39,1,0,1513916529,"~/file-rw/show/item.txt"
 -'  10  15  ~/file-rw/show/filereader.c
 |4,39,10,15,1513916468,"~/file-rw/show/filereader.c"
 -'  10  15  ~/file-rw/show/filereader.c
 |4,39,10,15,1513916468,"~/file-rw/show/filereader.c"
+-'  10  15  ~/file-rw/show/filereader.c
+|4,39,10,15,1513916468,"~/file-rw/show/filereader.c"
+-'  10  15  ~/file-rw/show/filereader.c
+|4,39,10,15,1513916468,"~/file-rw/show/filereader.c"
+-'  1  0  ~/file-rw/show/filereader.c
+|4,39,1,0,1513916436,"~/file-rw/show/filereader.c"
+-'  1  0  ~/file-rw/show/filereader.c
+|4,39,1,0,1513916436,"~/file-rw/show/filereader.c"
 -'  1  0  ~/file-rw/show/filereader.c
 |4,39,1,0,1513916436,"~/file-rw/show/filereader.c"
 -'  1  0  ~/file-rw/show/filereader.c
@@ -117,6 +131,14 @@ $
 |4,39,1,0,1513916391,"~/file-rw/show/inc.h"
 -'  1  0  ~/file-rw/show/inc.h
 |4,39,1,0,1513916391,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916391,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916391,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916391,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916391,"~/file-rw/show/inc.h"
 -'  10  7  ~/file-rw/show/filereader.c
 |4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
 -'  10  7  ~/file-rw/show/filereader.c
@@ -125,6 +147,22 @@ $
 |4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
 -'  10  7  ~/file-rw/show/filereader.c
 |4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
+-'  10  7  ~/file-rw/show/filereader.c
+|4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
+-'  10  7  ~/file-rw/show/filereader.c
+|4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
+-'  10  7  ~/file-rw/show/filereader.c
+|4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
+-'  10  7  ~/file-rw/show/filereader.c
+|4,39,10,7,1513916386,"~/file-rw/show/filereader.c"
+-'  1  0  ~/file-rw/show/filereader.c
+|4,39,1,0,1513916354,"~/file-rw/show/filereader.c"
+-'  1  0  ~/file-rw/show/filereader.c
+|4,39,1,0,1513916354,"~/file-rw/show/filereader.c"
+-'  1  0  ~/file-rw/show/filereader.c
+|4,39,1,0,1513916354,"~/file-rw/show/filereader.c"
+-'  1  0  ~/file-rw/show/filereader.c
+|4,39,1,0,1513916354,"~/file-rw/show/filereader.c"
 -'  1  0  ~/file-rw/show/filereader.c
 |4,39,1,0,1513916354,"~/file-rw/show/filereader.c"
 -'  1  0  ~/file-rw/show/filereader.c
@@ -157,6 +195,46 @@ $
 |4,39,10,9,1513916340,"~/file-rw/show/inc.h"
 -'  10  9  ~/file-rw/show/inc.h
 |4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  10  9  ~/file-rw/show/inc.h
+|4,39,10,9,1513916340,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
+-'  1  0  ~/file-rw/show/inc.h
+|4,39,1,0,1513916323,"~/file-rw/show/inc.h"
 -'  1  0  ~/file-rw/show/inc.h
 |4,39,1,0,1513916323,"~/file-rw/show/inc.h"
 -'  1  0  ~/file-rw/show/inc.h
@@ -219,84 +297,6 @@ $
 |4,39,15,9,1513916316,"~/file-rw/show/show.c"
 -'  15  9  ~/file-rw/show/show.c
 |4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  15  9  ~/file-rw/show/show.c
-|4,39,15,9,1513916316,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
--'  1  0  ~/file-rw/show/show.c
-|4,39,1,0,1513916291,"~/file-rw/show/show.c"
 
 # History of marks within files (newest to oldest):
 
