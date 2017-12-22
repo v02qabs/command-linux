@@ -6,7 +6,7 @@ void NewSock()
 	int sock;
 	sock = socket(PF_LOCAL, SOCK_STREAM, 0);
 
-	printf("ソケット：");
+	printf("socket number is : ");
 	printf("%d\n", sock);
 
 }
