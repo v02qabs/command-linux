@@ -182,3 +182,139 @@ rm *
 ls
 pwd
 exit
+ls
+cd libxml2
+ls
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+./main
+cls
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+./main
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)]]
+./main
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+./main\
+cat x1.c
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+vim x1.c
+gcc x1.c -o main $(pkg-config --cflags --libs libxml-2.0)
+./main
+ls
+touch item.txt
+./main
+ls
+vim x1.c
+cd ..
+ls
+ls ./sdcard1
+ls ./sdcard1/term7x
+ls ./sdcard1/termux
+cd
+ls
+git init
+cls
+ls
+git clone http://github.com/v02qabs/termux-dev.git
+ls
+rm -rf sdcard1
+ls
+git add .
+git commit -m "xml2"
+git config --global user.name "takesue090@gmail.com"
+git config --global user.name "v02qabs"
+git config --global user.email "takesue090@gmail.com"
+git commit -m "xml"
+git push
+git remote add origin https://github.com/v02qabs/termux-dev.git
+git push
+git push --set-upstream origin master
+\
+git push --set-upstream origin master
+cls
+ls
+cls
+exit
+cd $root/usr/include
+ls
+cd libxml2
+ls
+cd libxml/
+ls
+vim xmk
+vim xmlreader.h
+ls
+exit
+pkg search openssh
+pkg install openssh
+ssh-keygen
+termux-setup-storage
+ls
+cd storage
+ls
+cd
+ls
+chmod 600 .ssh/authorized_keys 
+chmod 700 .ssh
+cp .ssh/id_rsa ./storage/downloads
+sshd -d
+cd ../usr
+ls
+cd etc
+ls
+cd ssh
+ls
+vim sshd_config 
+vim ssh_config 
+vim ssh_config 
+vim sshd_config 
+sshd
+ps | grep sshd
+sshd -d
+ifconfig
+ls
+vim sshd_config 
+sshd -d
+sshd
+ps | grep sshd
+pkill sshd
+pkill sshd
+ps | grep sshd
+sshd
+ssh 192.168.100.255 -p 8080
+sshd -t
+sshd -d
+ls
+ifconfig
+ssh 192.168.100.100 -p 8080
+pkill sshd
+ps | grep sshd
+vim sshd_config 
+sshd -d
+ssh -d
+sshd -d
+sshd
+ssh 192.168.100.103 -p 8080
+ssh 192.168.100.100 -p 8080
+cd
+ssh
+ssh localhost -p 8080 -i %PATH_TO_FILE
+ssh localhost -p 8080
+ps | grep sshd
+pkill sshd
+sshd -d
+sshd -d
+sshd -d
+sshd -d
+exit
+exit
