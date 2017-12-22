@@ -318,3 +318,17 @@ sshd -d
 sshd -d
 exit
 exit
+ls
+cd sock
+ls
+gcc main.c -o sock 
+vim main.c
+gcc main.c -o sock 
+./sock
+cd
+git add .
+git commit -m "sock"
+git push
+ls
+cd 
+exit
