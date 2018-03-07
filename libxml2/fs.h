@@ -1,1 +1,0 @@
-long f_size();
