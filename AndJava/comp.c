@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
 	char *filename = argv[1];
 	char str3[100];
-	char *command = "java ";
+	char *command = "javac ";
 	sprintf(str3, "%s %s", command , filename);
 	
 	int i;
