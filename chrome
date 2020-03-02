@@ -1,0 +1,1 @@
+/usr/bin/chromium --disable-dev-shm-usage --no-sandbox %U $1
