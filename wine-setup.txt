@@ -1,0 +1,5 @@
+cp -r ~/.wine ~/.wine.bak
+export LC_ALL=en_US.utf8
+export STAGING_WRITECOPY=1
+cd ~/.wine/drive_c/msys64/
+wine start msys2_shell.bat
