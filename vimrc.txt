@@ -5,3 +5,4 @@ set number
 set tabstop=2
 set shiftwidth=2
 set autoindent
+nmap <F5> :!./makefile.sh
